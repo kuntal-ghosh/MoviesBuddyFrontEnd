@@ -1,1 +1,1 @@
-this is moviesbuddy project
+this is moviesbuddy project developed in react.js
